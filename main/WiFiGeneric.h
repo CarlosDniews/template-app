@@ -25,7 +25,6 @@
 
 #include "esp_err.h"
 #include "esp_event.h"
-#include <functional>
 #include "WiFiType.h"
 #include "IPAddress.h"
 #include "esp_smartconfig.h"
