@@ -9,6 +9,8 @@
                 "${config:idf.espIdfPath}/components/**",
                 "${config:idf.espIdfPathWin}/components/**",
                 "${config:idf.espAdfPath}/components/**",
+                "C:/Users/Carlos/Downloads/bmp280/bmp280/template-app/main/libraries",
+                "C:/Users/Carlos/Downloads/bmp280/bmp280/template-app/main",
                 "${config:idf.espAdfPathWin}/components/**",
                 "${workspaceFolder}/**"
             ],
@@ -17,6 +19,8 @@
                     "${config:idf.espIdfPath}/components",
                     "${config:idf.espIdfPathWin}/components",
                     "${config:idf.espAdfPath}/components/**",
+                    "C:/Users/Carlos/Downloads/bmp280/bmp280/template-app/main/libraries",
+                    "C:/Users/Carlos/Downloads/bmp280/bmp280/template-app/main",
                     "${config:idf.espAdfPathWin}/components/**",
                     "${workspaceFolder}"
                 ],

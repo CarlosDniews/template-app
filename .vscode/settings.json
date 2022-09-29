@@ -10,6 +10,7 @@
     "wstring.h": "c",
     "printable.h": "c",
     "ipaddress.h": "c",
-    "functional": "cpp"
+    "functional": "cpp",
+    "esp_system.h": "c"
   }
 }

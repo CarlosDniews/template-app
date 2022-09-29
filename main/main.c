@@ -14,7 +14,8 @@
 #include <WiFi.h>                                                                 //Inclusão das bibliotecas
 #include <WebServer.h>
 #include <Wire.h>
-#include <Adafruit_BMP280.h>\
+#include <Adafruit_BMP280.h>
+
 
 //semaphores
 SemaphoreHandle_t semaphore = NULL;
